@@ -9,4 +9,6 @@ while(c >= 0) {
     c = c - 1;
     
 }
-console.log(arr);
+
+let str = arr.join("");
+console.log(str);
